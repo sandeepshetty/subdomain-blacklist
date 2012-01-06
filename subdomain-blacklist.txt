@@ -6,9 +6,14 @@ application
 contact
 contactus
 demo
+email
+forgotpassword
 help
+mail
 manage
+password
 products
+recover
 services
 signin
 signup
