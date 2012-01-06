@@ -1,12 +1,16 @@
 about
 aboutus
 admin
+app
+application
 contact
 contactus
 demo
 help
+manage
 products
 services
 signin
 signup
 support
+test
