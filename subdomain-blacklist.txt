@@ -3,6 +3,7 @@ aboutus
 admin
 app
 application
+backup
 contact
 contactus
 demo
@@ -11,6 +12,7 @@ forgotpassword
 help
 mail
 manage
+marketing
 password
 products
 recover
@@ -19,3 +21,4 @@ signin
 signup
 support
 test
+www
