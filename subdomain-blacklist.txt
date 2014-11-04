@@ -68,6 +68,7 @@ chart
 charts
 chat
 checkout
+ci
 client
 clients
 clients?
@@ -341,6 +342,7 @@ spreadsheet
 spreadsheets
 srntp
 ssl
+ssh
 stage
 staging
 staging
