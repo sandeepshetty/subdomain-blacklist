@@ -64,6 +64,7 @@ calendar
 cart
 catalog
 catalogs
+cdn
 chart
 charts
 chat
